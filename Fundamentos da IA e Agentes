@@ -1,20 +1,30 @@
 Atividade 01 — Fundamentos da IA e Agentes.
 
-Objetivo: compreender os conceitos básicos da IA e agentes.
+## Objetivo:
+- Compreender os conceitos básicos da IA e agentes.
 
-Conteúdos estudados:
+## Conceitos estudados
+- Machine learning
+- Modelos de linguagem (LLMs)
+- IA generativa
+- Chatbots e copilotos
+- Agentes de IA
+- Engenharia de prompts
 
-    Machine Learning, LLM, IA Generativa.
-    Chatbots, Copilotos e Agentes.
-    Engenharia de Prompts.
-
-Atividade prática: Desenvolvi um plano de estudos começando com um chatbot, depois aperfeiçoando com o Copilot e por ultimo utilizando o Google Antigravit para automatizar e criar os repositorios. 
+## Evidência: Plano de estudos criado durante a atividade.
 <img width="1394" height="894" alt="Image" src="https://github.com/user-attachments/assets/f9b6cee2-4944-4cad-b520-5378ecf15f25" />
 
-O que aprendi: como a IA se originou, desde a forma que ela aprende, busca informação em sua base de dados e se comunica.
-Aprendi como Copilotos podem auxiliar durante uma tarefa em tempo real, como a escrita de um email por exemplo.
-Aprendi como Agentes podem automatizar tarefas, tomar decisões próprias para atingir um objetivo especifico. 
+## Etapas:
+1. Pedi ao chatbot (Chatgpt) que organizasse os assuntos em uma trilha de 30 dias de estudos com 1h por dia.
+2. Usei o copiloto (Copilot) para apoiar uma tarefa durante o estudo.
+3. Experimentei um agente (Google Antigravit) para automatizar etapas da criação e organização do repositório.
 
-Ferramentas utilizadas: Chatbots: ChatGPT, Google Gemini, Claude
-Copiloto: Copilot
-Agente: Google Antigravit
+## O que aprendi
+- Chatbots: respondem a solicitações e ajudam a explorar ideias.
+- Copilotos: podem apoiar tarefas enquanto você trabalha em tempo real.
+- Agentes: podem executar etapas para alcançar um objetivo de forma autonôma, conforme as instruções e ferramentas disponíveis.
+
+## Ferramentas utilizadas
+- Chatbots: ChatGPT, Gemini e Claude
+- Copiloto: GitHub Copilot
+- Agente: Google Antigravity
